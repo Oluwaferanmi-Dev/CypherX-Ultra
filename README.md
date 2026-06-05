@@ -45,37 +45,13 @@
 
 ---
 
-### Step 2: Get a Session ID
 
-<p align="center">
-  <a href="https://uxpair-08eaa0cdf162.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://paircx1-5aececee9665.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://paircx2-156d078e4c76.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://paircx3-3389649423ac.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_4-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://paircx4-32adc0478cd2.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_5-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://paircx2-156d078e4c76.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_Ofline-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-</p>
-
----
-
-### Step 3: Deploy
+### Step 2: Deploy
 
 Click the button below and fill in the config vars when prompted, make sure you have a functional heroku account:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/kwesigh1/CypherX-Ultra">
+  <a href="https://heroku.com/deploy?template=https://github.com/Dark-Xploit/CypherX-Ultra">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
   </a>
 </p>
